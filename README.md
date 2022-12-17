@@ -18,3 +18,5 @@ Intent is to learn more about rust through:
 - [Day 4, Part 2](./aoc4b/src/main.rs)
 - [Day 5, Part 1](./aoc5a/src/main.rs)
 - [Day 5, Part 2](./aoc5b/src/main.rs)
+- [Day 6, Part 1](./aoc6a/src/main.rs)
+- [Day 6, Part 2](./aoc6b/src/main.rs)
